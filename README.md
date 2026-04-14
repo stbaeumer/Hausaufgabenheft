@@ -12,6 +12,13 @@ Das Menü hat folgende Einträge:
 2.) Hausaufgaben verwalten (löschen, bearbeiten)
 3.) Alle (über-)fälligen Hausaufgaben anzeigen
 
+## Eigenschaften von Hausaufgaben
+
+1.) Fach
+2.) Thema
+3.) Beschreibung / Aufgabe
+4.) Fälligkeit
+
 ## Multiuser
 
 Das Programm soll für mehrere User nutzbar sein. Dafür gibt sich jeder User einen Username. 
